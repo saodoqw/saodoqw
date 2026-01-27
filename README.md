@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-deploy-git-main-saodoqws-projects.vercel.app/api?username=saodoqw)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-deploy-git-main-saodoqws-projects.vercel.app/api?username=saodoqw)](https://github.com/saodoqw/github-readme-stats-deploy)
 <!--
 **saodoqw/saodoqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
