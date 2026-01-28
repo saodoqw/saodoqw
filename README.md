@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/stars/saodoqw?label=Stars&style=social" alt="GitHub stars" />
   -->
 </div>
-https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg
 ###
 
 <h6 align="center">I code with</h6>
@@ -22,7 +21,7 @@ https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg
 ###
 
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=ts](https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Dark.svg)" height="60" alt="typescript logo"  />
+  <img src="https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg" height="60" alt="typescript logo"  />
   <img width="12" />
 
 </div>
