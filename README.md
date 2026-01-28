@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/github/stars/saodoqw?label=Stars&style=social" alt="GitHub stars" />
   -->
 </div>
+
 ###
 
 <h6 align="center">I code with</h6>
@@ -22,7 +23,6 @@
 
 <div align="center">
   <img src="https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
 
 </div>
 
