@@ -14,13 +14,20 @@
   <img src="https://img.shields.io/github/stars/saodoqw?label=Stars&style=social" alt="GitHub stars" />
   -->
 </div>
-
+https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg
 ###
 
 <h6 align="center">I code with</h6>
 
 ###
 
+<div align="center">
+  <img src="[https://skillicons.dev/icons?i=ts](https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Dark.svg)" height="60" alt="typescript logo"  />
+  <img width="12" />
+
+</div>
+
+###
 [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw)](https://github.com/saodoqw/github-readme-stats-deploy)
 <!--
 **saodoqw/saodoqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
