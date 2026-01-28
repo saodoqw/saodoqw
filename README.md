@@ -5,6 +5,15 @@
   I’m currently working on Back-end Web Development and try to become Full-stack Web Development
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saodoqw.saodoqw&" alt="visitor badge" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/University-FPT-orange?logo=fritz" alt="University:FPT badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Game-CSGO-blue?logo=counterstrike">
+  <img src="https://img.shields.io/github/followers/saodoqw?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/saodoqw?label=Stars&style=social" alt="GitHub stars" />
+
+</div>
+
 ###
 
 <h6 align="center">I code with</h6>
