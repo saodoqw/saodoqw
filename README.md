@@ -4,9 +4,8 @@
 <p align="center">
   I’m currently working on Back-end Web Development and try to become Full-stack Web Development
 </p>
-
-<div align="center">
 ![Visitors](https://api.visitorbadge.io/api/daily?path=saodoqw&countColor=%2337d67a&style=flat)
+<div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/University-FPT-orange?logo=fritz" alt="University:FPT badge">
   <!--  
   <img alt="Static Badge" src="https://img.shields.io/badge/Game-CSGO-blue?logo=counterstrike">
