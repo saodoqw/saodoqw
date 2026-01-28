@@ -22,7 +22,6 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/saodoqw/skill-icons/blob/main/icons/AWS-Light.svg" height="60" alt="typescript logo"  />
 
 </div>
 
