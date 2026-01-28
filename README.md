@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  [![Visitors](https://api.visitorbadge.io/api/daily?path=saodoqw&countColor=%2337d67a&style=flat)](https://visitorbadge.io/status?path=saodoqw)
+![Visitors](https://api.visitorbadge.io/api/daily?path=saodoqw&countColor=%2337d67a&style=flat)
   <img alt="Static Badge" src="https://img.shields.io/badge/University-FPT-orange?logo=fritz" alt="University:FPT badge">
   <!--  
   <img alt="Static Badge" src="https://img.shields.io/badge/Game-CSGO-blue?logo=counterstrike">
