@@ -6,12 +6,13 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saodoqw.saodoqw&" alt="visitor badge" />
+  [![Visitors](https://api.visitorbadge.io/api/daily?path=saodoqw&countColor=%2337d67a&style=flat)](https://visitorbadge.io/status?path=saodoqw)
   <img alt="Static Badge" src="https://img.shields.io/badge/University-FPT-orange?logo=fritz" alt="University:FPT badge">
+  <!--  
   <img alt="Static Badge" src="https://img.shields.io/badge/Game-CSGO-blue?logo=counterstrike">
   <img src="https://img.shields.io/github/followers/saodoqw?label=Follow&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/saodoqw?label=Stars&style=social" alt="GitHub stars" />
-
+  -->
 </div>
 
 ###
