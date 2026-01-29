@@ -21,15 +21,16 @@
 <h4 align="center">🚀 Tech Stack</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,mysql,java,nodejs,react&theme=light" height="60" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,mysql,java,nodejs,react" height="60" />
 </div>
 
-<h4 align="center">🛠 Also Familiar With</h4>
+<h4 align="center">🛠 I'm Also Familiar With</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,spring,redis" height="60" />
 </div>
-
+ 
+ <!--  
 <h6 align="center">I code with</h6>
 
 <div align="center">
@@ -61,6 +62,7 @@
   <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="Redis logo" title="Redis In-memory Database" />
   <img width="12" />  
 </div>
+-->
 
 ###
 
