@@ -28,12 +28,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react&theme=ligh" height="60" alt="react logo"  />
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=ligh" height="60" alt="mysql logo"  />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
   <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="60" alt="nodejs logo"  />
+  <img width="12" /> 
 </div>
 
 ###
