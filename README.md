@@ -48,11 +48,26 @@
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="Redis logo" title="Redis In-memory Database" />
   <img width="12" />  
-</div>
-</div>
- 
+</div> 
 ###
 
+<h6 align="center">You can find me on</h6>
+<div align="center">
+    <a href="https://www.linkedin.com/in/saodoqw/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
+  </a>  
+  <a href="https://www.facebook.com/nguyen.quoc.10022003/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo"  />
+  </a>
+  <a href="mailto:quocsaodo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  </a>
+  <a href="https://discordapp.com/users/371992703136956416" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
 
 
 [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw)](https://github.com/saodoqw/github-readme-stats-deploy)
