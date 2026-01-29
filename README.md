@@ -28,17 +28,34 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="60" alt="nodejs logo"  />
   <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />  
 </div>
 
 ###
+
+<h6 align="center">I'm also familiar with</h6>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="60" alt="spring logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />  
+</div>
+ 
+###
+
+
+
 [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw)](https://github.com/saodoqw/github-readme-stats-deploy)
 <!--
 **saodoqw/saodoqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
