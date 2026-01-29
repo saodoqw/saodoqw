@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring&theme=light" height="60" alt="spring logo"  />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="redis logo"  />
   <img width="12" />  
 </div>
  
