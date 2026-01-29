@@ -36,7 +36,6 @@
   <img width="12" />  
 </div>
 
-###
 
 <h6 align="center">I'm also familiar with</h6>
 <div align="center">
@@ -48,7 +47,8 @@
   <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="Redis logo" title="Redis In-memory Database" />
   <img width="12" />  
-</div> 
+</div>
+
 ###
 
 <h6 align="center">You can find me on</h6>
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo"  />
   </a>
   <a href="mailto:quocsaodo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white" height="25" alt="email logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo"  />
   </a>
   <a href="https://discordapp.com/users/358226743284203520" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
