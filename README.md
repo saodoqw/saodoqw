@@ -80,12 +80,18 @@
 ###
 
 
-<div align="center">
+<details align="center">
+  <summary><b>📊GitHub Stats</b></summary>
 
-[![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/saodoqw/github-readme-stats-deploy#gh-dark-mode-only)
-[![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/saodoqw/github-readme-stats-deploy#gh-light-mode-only)
+  <br>
 
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=catppuccin_latte" />
+  </div>
+
+</details>
+
 
 ###
 
