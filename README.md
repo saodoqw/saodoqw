@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=transparent)](https://github.com/saodoqw/github-readme-stats-deploy)
+  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=onedark)](https://github.com/saodoqw/github-readme-stats-deploy)
 
 </div>
 <!--
