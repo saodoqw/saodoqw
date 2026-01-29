@@ -1,9 +1,10 @@
 <h1 align="center">Saodoqw</h1>
-<h4 align="center">Fullstack Developer</h4>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="center">
-  I’m currently working on Back-end Web Development and try to become Full-stack Web Development
+  Passionate about Back-end Web Development and striving to become a professional Full-stack Developer.
 </p>
+
 <div align="center">
   
   <img src="https://api.visitorbadge.io/api/daily?path=saodoqw&counolor=%23008000&style=flat" alt="visitor badge" />  
@@ -16,6 +17,18 @@
 </div>
 
 ###
+
+<h4 align="center">🚀 Tech Stack</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,mysql,java,nodejs,react" height="60" />
+</div>
+
+<h4 align="center">🛠 Also Familiar With</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,spring,redis" height="60" />
+</div>
 
 <h6 align="center">I code with</h6>
 
@@ -84,17 +97,3 @@
 
 -->
 
-<!--
-**saodoqw/saodoqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
