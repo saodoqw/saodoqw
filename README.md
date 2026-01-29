@@ -21,7 +21,7 @@
 <h4 align="center">🚀 Tech Stack</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,mysql,java,nodejs,react" height="60" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,mysql,java,nodejs,react&theme=light" height="60" />
 </div>
 
 <h4 align="center">🛠 Also Familiar With</h4>
