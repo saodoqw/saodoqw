@@ -66,11 +66,12 @@
 
 
 <div align="center">
-  
 [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/saodoqw/github-readme-stats-deploy#gh-dark-mode-only)
 [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/saodoqw/github-readme-stats-deploy#gh-light-mode-only)
-[![Saodoqw's Top Langs](https://github-readme-stats-topaz-xi-56.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div align="center">
+[![Saodoqw's Top Langs](https://github-readme-stats-topaz-xi-56.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/saodoqw/github-readme-stats-deploy)
 </div>
 
 ###
