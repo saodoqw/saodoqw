@@ -53,16 +53,16 @@
 
 <h6 align="center">You can find me on</h6>
 <div align="center">
-  <a href="https://www.linkedin.com/in/saodoqw/" target="_blank" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/saodoqw/" target="_blank" title="LinkedIn Profile" style="display:inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.facebook.com/nguyen.quoc.10022003/" target="_blank" title="Facebook Profile">
+  <a href="https://www.facebook.com/nguyen.quoc.10022003/" target="_blank" title="Facebook Profile" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook logo" />
   </a>
-  <a href="mailto:quocsaodo@gmail.com" title="Send me an email">
+  <a href="mailto:quocsaodo@gmail.com" title="Send me an email" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
   </a>
-  <a href="https://discordapp.com/users/358226743284203520" target="_blank" title="Discord Profile">
+  <a href="https://discordapp.com/users/358226743284203520" target="_blank" title="Discord Profile" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord logo" />
   </a>
 </div>
@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=onedark)](https://github.com/saodoqw/github-readme-stats-deploy)
+  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=tokyonight)](https://github.com/saodoqw/github-readme-stats-deploy)
 
 </div>
 <!--
