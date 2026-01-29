@@ -53,17 +53,17 @@
 
 <h6 align="center">You can find me on</h6>
 <div align="center">
-    <a href="https://www.linkedin.com/in/saodoqw/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
-  </a>  
-  <a href="https://www.facebook.com/nguyen.quoc.10022003/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/saodoqw/" target="_blank" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:quocsaodo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo"  />
+  <a href="https://www.facebook.com/nguyen.quoc.10022003/" target="_blank" title="Facebook Profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook logo" />
   </a>
-  <a href="https://discordapp.com/users/358226743284203520" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
+  <a href="mailto:quocsaodo@gmail.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
+  </a>
+  <a href="https://discordapp.com/users/358226743284203520" target="_blank" title="Discord Profile">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord logo" />
   </a>
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw)](https://github.com/saodoqw/github-readme-stats-deploy)
+  [![Saodoqw's GitHub stats](https://github-readme-stats-topaz-xi-56.vercel.app/api?username=saodoqw&show_icons=true&theme=transparent)](https://github.com/saodoqw/github-readme-stats-deploy)
 
 </div>
 <!--
