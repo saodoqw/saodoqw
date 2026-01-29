@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="60" alt="mysql logo"  />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
   <img width="12" />  
