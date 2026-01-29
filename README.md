@@ -19,22 +19,20 @@
 
 <h6 align="center">I code with</h6>
 
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" title=".NET Framework" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" title="C# Language" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" title="C Language" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="60" alt="MySQL logo" title="MySQL Database" />
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="Java logo" title="Java Language" />
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="60" alt="Node.js logo" title="Node.js Runtime" />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" title="React Library" />
   <img width="12" />  
 </div>
 
@@ -42,14 +40,15 @@
 
 <h6 align="center">I'm also familiar with</h6>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" title="Docker Containerization" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" title="Git Version Control" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="60" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="60" alt="Spring logo" title="Spring Framework" />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="Redis logo" title="Redis In-memory Database" />
   <img width="12" />  
+</div>
 </div>
  
 ###
