@@ -66,7 +66,7 @@
 
 ###
 
-<h6 align="center">You can find me on</h6>
+<h4 align="center">You can find me on</h4>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saodoqw/)
